@@ -26,7 +26,6 @@ jobs:
           # Options
           user: crypt0kitty
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           plugin_screenshot: yes
           plugin_screenshot_background: yes
