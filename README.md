@@ -1,8 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypt0kitty&langs_count=8&layout=compact&bg_color=00000000&hide_border=true&custom_title=Frequently%20used%20languages&theme=monokai&hide=html,dockerfile,css,php,scss)
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypt0kitty&theme=monokai)
-
-          
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crypt0kitty&theme=monokai)    
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
@@ -17,4 +15,7 @@ alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" targ
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />        
    </a>&nbsp;&nbsp;
   
-</p>
+  <a href="https://twitter.com/crypt0ktty">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
